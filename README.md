@@ -16,7 +16,7 @@ Here is how you can use the Vector *class* in your program, function by function
 
 ### vector_free
 
-This function frees up the used memory.
+This function frees up the used memory at the given index.
 
 ``` C
     vector_free(&vector[index]);
@@ -32,7 +32,7 @@ This function puts a string into our dynamic array.
 
 ### pop_back
 
-This function puts a string out of our dynamic array at the given indey.
+This function puts a string out of our dynamic array at the given index.
 
 ``` C
     pop_back(vector, 0);
@@ -56,4 +56,4 @@ This function returns the last character of our dynamic array.
 
 ## Credit
 
-The program is not fully mine, but please make sure to mark the source documentation,if you use it.
+The program is not fully mine, but please make sure to mark the source in the documentation,if you use it.
