@@ -1,14 +1,12 @@
 # Vector
 
-## Description
-
 A dynamic array implementation in C to store strings.
 
-## How to use
-
-Here is how you can use the Vector *class* in your program, function by function.
+Here is how you can use the Vector *class* in your program, function by function:
 
 ### create
+
+Creates the vector, initializes the variables that are used.
 
 ``` C
     Vector vector = create();
