@@ -22,7 +22,7 @@ This function frees up the used memory at the given index.
 
 ### push_back
 
-This function puts a string into our dynamic array.
+This function puts a string into the dynamic array.
  
 ``` C
     push_back(vector, "string");
@@ -51,7 +51,3 @@ This function returns the last character of our dynamic array.
 ``` C
     end(&vector);
 ```
-
-## Credit
-
-The program is not fully mine, but please make sure to mark the source in the documentation,if you use it.
